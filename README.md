@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mikemc-twist-mcp-server-badge.png)](https://mseep.ai/app/mikemc-twist-mcp-server)
+
 # Twist MCP Server (testing)
 
 An MCP server for interacting with a [Twist](https://twist.com/home) workspace. Written in Python using the [Twist REST API](https://developer.twist.com/v3/). Currently for testing purposes only.
